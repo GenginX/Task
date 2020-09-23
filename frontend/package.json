@@ -1,6 +1,7 @@
 {
   "name": "weatherapp-frontend",
   "version": "0.0.1",
+  "type": "module",
   "description": "Weatherapp exercise frontend",
   "repository": {
     "type": "git",
